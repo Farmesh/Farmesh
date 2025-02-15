@@ -34,7 +34,7 @@ You can also connect with me on [LinkedIn](https://www.linkedin.com/in/farmeshku
 ---
 
 ### 📫 How to reach me:
-- Email: [[Email](thakurfarmesh123@gmail.com)] 📧
+- Email: [Email](thakurfarmesh123@gmail.com) 📧
 
 ---
 
