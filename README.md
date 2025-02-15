@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey there, I'm Farmesh 👋
 
-<!--
-**Farmesh/Farmesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🧑‍💻
 
-Here are some ideas to get you started:
+I'm a **Software Developer Intern** at **Lord Mahavira Services (LMS)** 🌟, specializing in building scalable and high-performance **web** and **mobile** applications. I have a passion for solving complex problems and creating innovative solutions with cutting-edge technologies. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 My Skills:
+- **Languages:** C, C++, Python 🐍
+- **Web Development:** .NET Core, React.js ⚛️, AngularJS, Node.js 🌐
+- **Databases:** MongoDB, MSSQL 🗄️
+- **Web Technologies:** HTML5, CSS3, JavaScript 📑
+- **Other Technologies:** API Development, Version Control (Git) 🛠️
+
+### 💼 Current Focus:
+I’m currently working at **LMS**, where I collaborate with a talented team to create impactful solutions that drive client success. 🌱
+
+### 🚀 I’m Open To:
+- 💬 Collaborations
+- 🔧 Open-source contributions
+- 🌐 Discussions on the latest development trends and technologies
+
+## 💻 My Tech Stack
+
+- **Frontend:** React.js ⚛️, AngularJS, HTML5, CSS3
+- **Backend:** Node.js 🌐, .NET Core
+- **Databases:** MongoDB, MSSQL
+- **Languages:** Python 🐍, C, C++
+
+## 🌱 Let’s Connect!
+
+Feel free to explore my repositories, follow me for updates, or reach out for discussions on tech trends, collaboration, or new opportunities! 💬  
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/farmeshkumar/) 🔗.
+
+---
+
+### 📫 How to reach me:
+- Email: [[Email](thakurfarmesh123@gmail.com)] 📧
+
+---
+
+Thanks for visiting my profile! 🌟 Let’s build something amazing together! 🚀
